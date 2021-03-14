@@ -1,5 +1,5 @@
 # Airsoft_Timer
-Lithuanian airsoft DEEPSAND and AIRSOFTGAME coordinator teams property
+Lithuanian airsoft DEEPSAND and AIRSOFTGAME coordinator teams property.
 Software and electrical design by Artur Stankevič a.k.a. No_Nick in coordinator teams.
 
 Project based on STM32 microcontroller. STM32 "Blue Pill" dev board. STM32F103C8T6 chip.
