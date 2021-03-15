@@ -9,7 +9,4 @@ To reduce amount of code and wires I recommend using 1 LCD 20x4.
 
 This is 2 version of Timer. First one was with 1 LCD screen in 2 version there are 2 LCD 16x2 screens and 4 buttons for each team.
 
-Librarie timer is created for timer functions.
-i2c-lcd librarie is for text printing on lcd screen.
-
 Veliavu_taimeris_v2.0.ioc is CubeMX project file.
